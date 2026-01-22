@@ -51,7 +51,7 @@ public:
 int main() {
    Book bookList[] = {
     Book("Effective Modern C++", "Scott Meyers", "O'Reilly Media", 780),
-    Book("C++ Primer (5th Edition)", "Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo", "Addison-Wesley", 890),
+    Book("C++ Primer (5th Edition)", "Stanley B. Lippman, JosÃ©e Lajoie, and Barbara E. Moo", "Addison-Wesley", 890),
     Book("Programming: Principles and Practice Using C++", "Bjarne Stroustrup", "Addison-Wesley", 950),
     Book("Fluent Python", "Luciano Ramalho", "O'Reilly Media", 820),
     Book("Python Crash Course (2nd Edition)", "Eric Matthes", "No Starch Press", 650)
